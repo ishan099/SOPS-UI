@@ -1,0 +1,54 @@
+﻿body {
+    background-color: #6FC2E5;
+}
+
+.login-wrapper {
+    background-color: #F2F1F0;
+    height: 300px;
+    margin-top: 40px;
+    border-radius: 5px;
+    padding: 40px 45px 25px 45px;
+}
+
+.login-header {
+    margin-top: 50px;
+    font-size: 25px;
+    font-family: 'AvenirNextLTPro-Bold', sans-serif;
+    color: #F2F1F0;
+    width:100%;
+    text-align:center;
+}
+
+label {
+    font-family: 'AvenirNextLTPro-Regular', sans-serif;
+}
+
+.login-btn {
+    background: #6FC2E5 !important;
+    font-family: 'AvenirNextLTPro-Bold', sans-serif;
+    text-transform: uppercase;
+    width: 100%;
+    border-radius: 0px;
+    color: #fff;
+}
+
+
+.form-control {
+    font-family: 'AvenirNextLTPro-Regular', sans-serif;
+    display: block;
+    width: 100%;
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 0px;
+    -webkit-box-shadow: inset 0 0px 0px rgba(0, 0, 0, .075);
+    box-shadow: inset 0 0px 0px rgba(0, 0, 0, .075);
+    -webkit-transition: border-color ease-in-out .15s, -webkit-box-shadow ease-in-out .15s;
+    -o-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+}

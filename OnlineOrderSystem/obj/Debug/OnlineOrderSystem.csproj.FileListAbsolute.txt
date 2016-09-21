@@ -1,0 +1,50 @@
+E:\NewProject US\OnlineOrderSystem\OnlineOrderSystem\bin\OnlineOrderSystem.dll.config
+E:\NewProject US\OnlineOrderSystem\OnlineOrderSystem\bin\OnlineOrderSystem.dll
+E:\NewProject US\OnlineOrderSystem\OnlineOrderSystem\bin\OnlineOrderSystem.pdb
+E:\NewProject US\OnlineOrderSystem\OnlineOrderSystem\obj\Debug\OnlineOrderSystem.csprojResolveAssemblyReference.cache
+E:\NewProject US\OnlineOrderSystem\OnlineOrderSystem\obj\Debug\OnlineOrderSystem.dll
+E:\NewProject US\OnlineOrderSystem\OnlineOrderSystem\obj\Debug\OnlineOrderSystem.pdb
+C:\Users\ishan\Dropbox\Final Project\Codes\OnlineOrderSystem\OnlineOrderSystem\bin\OnlineOrderSystem.dll
+C:\Users\ishan\Dropbox\Final Project\Codes\OnlineOrderSystem\OnlineOrderSystem\bin\OnlineOrderSystem.pdb
+C:\Users\ishan\Dropbox\Final Project\Codes\OnlineOrderSystem\OnlineOrderSystem\obj\Debug\OnlineOrderSystem.csprojResolveAssemblyReference.cache
+C:\Users\ishan\Dropbox\Final Project\Codes\OnlineOrderSystem\OnlineOrderSystem\obj\Debug\OnlineOrderSystem.dll
+C:\Users\ishan\Dropbox\Final Project\Codes\OnlineOrderSystem\OnlineOrderSystem\obj\Debug\OnlineOrderSystem.pdb
+C:\Users\ishan\Dropbox\Final Project\Codes\OnlineOrderSystem\OnlineOrderSystem\bin\OnlineOrderSystem.dll.config
+D:\MyStuff\ICBT\Final Project\SOPS\OnlineOrderSystem\OnlineOrderSystem\bin\OnlineOrderSystem.dll.config
+D:\MyStuff\ICBT\Final Project\SOPS\OnlineOrderSystem\OnlineOrderSystem\bin\OnlineOrderSystem.dll
+D:\MyStuff\ICBT\Final Project\SOPS\OnlineOrderSystem\OnlineOrderSystem\bin\OnlineOrderSystem.pdb
+D:\MyStuff\ICBT\Final Project\SOPS\OnlineOrderSystem\OnlineOrderSystem\obj\Debug\OnlineOrderSystem.csprojResolveAssemblyReference.cache
+D:\MyStuff\ICBT\Final Project\SOPS\OnlineOrderSystem\OnlineOrderSystem\obj\Debug\OnlineOrderSystem.dll
+D:\MyStuff\ICBT\Final Project\SOPS\OnlineOrderSystem\OnlineOrderSystem\obj\Debug\OnlineOrderSystem.pdb
+D:\MyStuff\ICBT\Final Project\SOPS\OnlineOrderSystem-UI-Da\OnlineOrderSystem\bin\OnlineOrderSystem.dll.config
+D:\MyStuff\ICBT\Final Project\SOPS\OnlineOrderSystem-UI-Da\OnlineOrderSystem\bin\OnlineOrderSystem.dll
+D:\MyStuff\ICBT\Final Project\SOPS\OnlineOrderSystem-UI-Da\OnlineOrderSystem\bin\OnlineOrderSystem.pdb
+D:\MyStuff\ICBT\Final Project\SOPS\OnlineOrderSystem-UI-Da\OnlineOrderSystem\obj\Debug\OnlineOrderSystem.csprojResolveAssemblyReference.cache
+D:\MyStuff\ICBT\Final Project\SOPS\OnlineOrderSystem-UI-Da\OnlineOrderSystem\obj\Debug\OnlineOrderSystem.dll
+D:\MyStuff\ICBT\Final Project\SOPS\OnlineOrderSystem-UI-Da\OnlineOrderSystem\obj\Debug\OnlineOrderSystem.pdb
+D:\MyStuff\ICBT\Final Project\SOPS\OnlineOrderSystem-UI-Da\OnlineOrderSystem\bin\DAL.dll
+D:\MyStuff\ICBT\Final Project\SOPS\OnlineOrderSystem-UI-Da\OnlineOrderSystem\bin\DAO.dll
+D:\MyStuff\ICBT\Final Project\SOPS\OnlineOrderSystem-UI-Da\OnlineOrderSystem\bin\DAL.pdb
+D:\MyStuff\ICBT\Final Project\SOPS\OnlineOrderSystem-UI-Da\OnlineOrderSystem\bin\DAO.pdb
+E:\ProICBT\OnlineOrderSystem-UI-Da\OnlineOrderSystem\bin\OnlineOrderSystem.dll.config
+E:\ProICBT\OnlineOrderSystem-UI-Da\OnlineOrderSystem\bin\OnlineOrderSystem.dll
+E:\ProICBT\OnlineOrderSystem-UI-Da\OnlineOrderSystem\bin\OnlineOrderSystem.pdb
+E:\ProICBT\OnlineOrderSystem-UI-Da\OnlineOrderSystem\obj\Debug\OnlineOrderSystem.csprojResolveAssemblyReference.cache
+E:\ProICBT\OnlineOrderSystem-UI-Da\OnlineOrderSystem\obj\Debug\OnlineOrderSystem.dll
+E:\ProICBT\OnlineOrderSystem-UI-Da\OnlineOrderSystem\obj\Debug\OnlineOrderSystem.pdb
+E:\ProICBT\OnlineOrderSystem-UI-Da\OnlineOrderSystem\bin\DAL.dll
+E:\ProICBT\OnlineOrderSystem-UI-Da\OnlineOrderSystem\bin\DAO.dll
+E:\ProICBT\OnlineOrderSystem-UI-Da\OnlineOrderSystem\bin\DAL.pdb
+E:\ProICBT\OnlineOrderSystem-UI-Da\OnlineOrderSystem\bin\DAO.pdb
+D:\MyStuff\ICBT\Final Project\SOPS\ProICBT\OnlineOrderSystem-UI-Da\OnlineOrderSystem\bin\OnlineOrderSystem.dll.config
+D:\MyStuff\ICBT\Final Project\SOPS\ProICBT\OnlineOrderSystem-UI-Da\OnlineOrderSystem\bin\OnlineOrderSystem.dll
+D:\MyStuff\ICBT\Final Project\SOPS\ProICBT\OnlineOrderSystem-UI-Da\OnlineOrderSystem\bin\OnlineOrderSystem.pdb
+D:\MyStuff\ICBT\Final Project\SOPS\ProICBT\OnlineOrderSystem-UI-Da\OnlineOrderSystem\bin\DAL.dll
+D:\MyStuff\ICBT\Final Project\SOPS\ProICBT\OnlineOrderSystem-UI-Da\OnlineOrderSystem\bin\DAO.dll
+D:\MyStuff\ICBT\Final Project\SOPS\ProICBT\OnlineOrderSystem-UI-Da\OnlineOrderSystem\bin\DAL.pdb
+D:\MyStuff\ICBT\Final Project\SOPS\ProICBT\OnlineOrderSystem-UI-Da\OnlineOrderSystem\bin\DAO.pdb
+D:\MyStuff\ICBT\Final Project\SOPS\ProICBT\OnlineOrderSystem-UI-Da\OnlineOrderSystem\obj\Debug\OnlineOrderSystem.csprojResolveAssemblyReference.cache
+D:\MyStuff\ICBT\Final Project\SOPS\ProICBT\OnlineOrderSystem-UI-Da\OnlineOrderSystem\obj\Debug\OnlineOrderSystem.dll
+D:\MyStuff\ICBT\Final Project\SOPS\ProICBT\OnlineOrderSystem-UI-Da\OnlineOrderSystem\obj\Debug\OnlineOrderSystem.pdb
+D:\MyStuff\ICBT\Final Project\SOPS\ProICBT\OnlineOrderSystem-UI-Da\OnlineOrderSystem\bin\Newtonsoft.Json.dll
+D:\MyStuff\ICBT\Final Project\SOPS\ProICBT\OnlineOrderSystem-UI-Da\OnlineOrderSystem\bin\Newtonsoft.Json.xml

@@ -1,0 +1,37 @@
+D:\GitProjects\MyProjects\SCMS\DAO\bin\Debug\DAO.dll
+D:\GitProjects\MyProjects\SCMS\DAO\bin\Debug\DAO.pdb
+D:\GitProjects\MyProjects\SCMS\DAO\bin\Debug\DAL.dll
+D:\GitProjects\MyProjects\SCMS\DAO\bin\Debug\DAL.pdb
+D:\GitProjects\MyProjects\SCMS\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\GitProjects\MyProjects\SCMS\DAO\obj\Debug\DAO.dll
+D:\GitProjects\MyProjects\SCMS\DAO\obj\Debug\DAO.pdb
+D:\MyStuff\ICBT\Final Project\Sampath\Project By sampath Niroshana\Source Code\SCMS\DAO\bin\Debug\DAO.dll
+D:\MyStuff\ICBT\Final Project\Sampath\Project By sampath Niroshana\Source Code\SCMS\DAO\bin\Debug\DAO.pdb
+D:\MyStuff\ICBT\Final Project\Sampath\Project By sampath Niroshana\Source Code\SCMS\DAO\bin\Debug\DAL.dll
+D:\MyStuff\ICBT\Final Project\Sampath\Project By sampath Niroshana\Source Code\SCMS\DAO\bin\Debug\DAL.pdb
+D:\MyStuff\ICBT\Final Project\Sampath\Project By sampath Niroshana\Source Code\SCMS\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\MyStuff\ICBT\Final Project\Sampath\Project By sampath Niroshana\Source Code\SCMS\DAO\obj\Debug\DAO.dll
+D:\MyStuff\ICBT\Final Project\Sampath\Project By sampath Niroshana\Source Code\SCMS\DAO\obj\Debug\DAO.pdb
+C:\Users\ishan\Dropbox\Final Project\Codes\UI\SCMS\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\ishan\Dropbox\Final Project\Codes\UI\SCMS\DAO\obj\Debug\DAO.dll
+C:\Users\ishan\Dropbox\Final Project\Codes\UI\SCMS\DAO\bin\Debug\DAO.dll
+C:\Users\ishan\Dropbox\Final Project\Codes\UI\SCMS\DAO\bin\Debug\DAO.pdb
+C:\Users\ishan\Dropbox\Final Project\Codes\UI\SCMS\DAO\bin\Debug\DAL.dll
+C:\Users\ishan\Dropbox\Final Project\Codes\UI\SCMS\DAO\bin\Debug\DAL.pdb
+C:\Users\ishan\Dropbox\Final Project\Codes\UI\SCMS\DAO\obj\Debug\DAO.pdb
+E:\ProICBT\OnlineOrderSystem-UI-Da\DAO\bin\Debug\DAO.dll
+E:\ProICBT\OnlineOrderSystem-UI-Da\DAO\bin\Debug\DAO.pdb
+E:\ProICBT\OnlineOrderSystem-UI-Da\DAO\bin\Debug\DAL.dll
+E:\ProICBT\OnlineOrderSystem-UI-Da\DAO\bin\Debug\DAL.pdb
+E:\ProICBT\OnlineOrderSystem-UI-Da\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+E:\ProICBT\OnlineOrderSystem-UI-Da\DAO\obj\Debug\DAO.dll
+E:\ProICBT\OnlineOrderSystem-UI-Da\DAO\obj\Debug\DAO.pdb
+D:\MyStuff\ICBT\Final Project\SOPS\ProICBT\OnlineOrderSystem-UI-Da\DAO\bin\Debug\DAO.dll
+D:\MyStuff\ICBT\Final Project\SOPS\ProICBT\OnlineOrderSystem-UI-Da\DAO\bin\Debug\DAO.pdb
+D:\MyStuff\ICBT\Final Project\SOPS\ProICBT\OnlineOrderSystem-UI-Da\DAO\bin\Debug\DAL.dll
+D:\MyStuff\ICBT\Final Project\SOPS\ProICBT\OnlineOrderSystem-UI-Da\DAO\bin\Debug\DAL.pdb
+D:\MyStuff\ICBT\Final Project\SOPS\ProICBT\OnlineOrderSystem-UI-Da\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\MyStuff\ICBT\Final Project\SOPS\ProICBT\OnlineOrderSystem-UI-Da\DAO\obj\Debug\DAO.dll
+D:\MyStuff\ICBT\Final Project\SOPS\ProICBT\OnlineOrderSystem-UI-Da\DAO\obj\Debug\DAO.pdb
+D:\MyStuff\ICBT\Final Project\SOPS\ProICBT\OnlineOrderSystem-UI-Da\DAO\bin\Debug\Newtonsoft.Json.dll
+D:\MyStuff\ICBT\Final Project\SOPS\ProICBT\OnlineOrderSystem-UI-Da\DAO\bin\Debug\Newtonsoft.Json.xml

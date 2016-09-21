@@ -1,0 +1,46 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="main.master.cs" Inherits="OnlineOrderSystem.main1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Welcome Orerder System</title>
+    <!-- Style -->
+    <link href="bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="bower_components/notie/dist/notie.css" rel="stylesheet" />
+    <link rel="stylesheet" type="text/css" href="assets/css/customer.css" />
+</head>
+<body>
+    <nav class="navbar navbar-default">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="#">Online Order Placing System</a>
+            </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav pull-right">
+                    <li> <button type="submit" class="btn btn-default">Pending</button></li>
+                    <li> <button type="submit" class="btn btn-default">Processing</button></li>
+                    <li> <button type="submit" class="btn btn-default">Complete</button></li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container-fluid -->
+    </nav>
+    <form id="form1" runat="server">
+        <div class="container">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+
+       
+        <asp:ScriptManager ID="ScriptManager1" runat="server">
+        <Scripts>
+            <asp:ScriptReference Path="bower_components/jquery/dist/jquery.js" />
+            <asp:ScriptReference Path="assets/js/main.js" />
+        </Scripts>
+    </asp:ScriptManager>
+    </form>
+</body>
+</html>

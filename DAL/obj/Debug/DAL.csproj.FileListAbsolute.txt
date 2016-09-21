@@ -1,0 +1,20 @@
+D:\GitProjects\MyProjects\SCMS\DAL\bin\Debug\DAL.dll
+D:\GitProjects\MyProjects\SCMS\DAL\bin\Debug\DAL.pdb
+D:\GitProjects\MyProjects\SCMS\DAL\obj\Debug\DAL.dll
+D:\GitProjects\MyProjects\SCMS\DAL\obj\Debug\DAL.pdb
+D:\GitProjects\MyProjects\SCMS\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\MyStuff\ICBT\Final Project\Sampath\Project By sampath Niroshana\Source Code\SCMS\DAL\bin\Debug\DAL.dll
+D:\MyStuff\ICBT\Final Project\Sampath\Project By sampath Niroshana\Source Code\SCMS\DAL\bin\Debug\DAL.pdb
+D:\MyStuff\ICBT\Final Project\Sampath\Project By sampath Niroshana\Source Code\SCMS\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\MyStuff\ICBT\Final Project\Sampath\Project By sampath Niroshana\Source Code\SCMS\DAL\obj\Debug\DAL.dll
+D:\MyStuff\ICBT\Final Project\Sampath\Project By sampath Niroshana\Source Code\SCMS\DAL\obj\Debug\DAL.pdb
+C:\Users\ishan\Dropbox\Final Project\Codes\UI\SCMS\DAL\bin\Debug\DAL.dll
+C:\Users\ishan\Dropbox\Final Project\Codes\UI\SCMS\DAL\bin\Debug\DAL.pdb
+C:\Users\ishan\Dropbox\Final Project\Codes\UI\SCMS\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\ishan\Dropbox\Final Project\Codes\UI\SCMS\DAL\obj\Debug\DAL.dll
+C:\Users\ishan\Dropbox\Final Project\Codes\UI\SCMS\DAL\obj\Debug\DAL.pdb
+D:\MyStuff\ICBT\Final Project\SOPS\ProICBT\OnlineOrderSystem-UI-Da\DAL\bin\Debug\DAL.dll
+D:\MyStuff\ICBT\Final Project\SOPS\ProICBT\OnlineOrderSystem-UI-Da\DAL\bin\Debug\DAL.pdb
+D:\MyStuff\ICBT\Final Project\SOPS\ProICBT\OnlineOrderSystem-UI-Da\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\MyStuff\ICBT\Final Project\SOPS\ProICBT\OnlineOrderSystem-UI-Da\DAL\obj\Debug\DAL.dll
+D:\MyStuff\ICBT\Final Project\SOPS\ProICBT\OnlineOrderSystem-UI-Da\DAL\obj\Debug\DAL.pdb
