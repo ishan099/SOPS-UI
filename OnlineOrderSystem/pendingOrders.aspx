@@ -35,7 +35,39 @@
                         <h4 class="modal-title" >Order Details</h4>
                     </div>
                     <div class="modal-body">
-                        ...
+                        <div  class="row">
+                            <div class="col-lg-12">
+                                <div class="col-md-4 text-left">Order Id</div>
+                                 <div class="col-md-8 text-left" id="orderId"> </div>
+
+                            </div>
+                        </div>
+
+                        <div  class="row">
+                            <div class="col-lg-12">
+                                <div class="col-md-4 text-left">
+                                    Customer Name
+                                </div>
+                                 <div class="col-md-8 text-left" id="customerName"></div>
+
+                            </div>
+                        </div>
+
+                        <div class="row order-details-wrapper">
+                            <table class="table table-hover">
+                            <thead>
+                                <tr>
+                                    <th>Item Name</th>
+                                    <th>Item Code</th>
+                                    <th>Qty</th>
+                                    <th>Unit Price</th>
+                                    <th>value</th>
+                                </tr>
+                            </thead>
+                            <tbody id="OrderView_id">
+                            </tbody>
+                        </table>
+                        </div>
                     </div>
                     <div class="modal-footer">
                         <button type="button" class="btn btn-block btn-primary">Send to Process</button>

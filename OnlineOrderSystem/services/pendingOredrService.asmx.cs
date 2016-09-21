@@ -30,10 +30,24 @@ namespace OnlineOrderSystem.services
         [ScriptMethod(ResponseFormat = ResponseFormat.Json)]
         public string GetPendingOrder()
         {
-            List<OrderDetails> _lstPendingLst = new List<OrderDetails>();
+            List<OrderSummary> _lstPendingLst = new List<OrderSummary>();
             PendingOrder _pendingOrder = new PendingOrder();
-            _lstPendingLst = _pendingOrder.GetAllPendingOrer();
+            _lstPendingLst = _pendingOrder.GetAllPendingOrder();
             var jsonss = Newtonsoft.Json.JsonConvert.SerializeObject(_lstPendingLst);
+            return jsonss;
+        }
+
+
+        //{ parameter orderId = 0}
+        //get current pending order
+        [WebMethod]
+        [ScriptMethod(ResponseFormat = ResponseFormat.Json)]
+        public string GetCurrentPendingOrder(string orderId)
+        {
+            List<CurrentOrderDetails> _lstCurrentOrderLst = new List<CurrentOrderDetails>();
+            PendingOrder _pendingOrder = new PendingOrder();
+            _lstCurrentOrderLst = _pendingOrder.GetCurrentPendingOrder(orderId);
+            var jsonss = Newtonsoft.Json.JsonConvert.SerializeObject(_lstCurrentOrderLst);
             return jsonss;
         }
     }
