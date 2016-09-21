@@ -35,3 +35,12 @@ D:\MyStuff\ICBT\Final Project\SOPS\ProICBT\OnlineOrderSystem-UI-Da\DAO\obj\Debug
 D:\MyStuff\ICBT\Final Project\SOPS\ProICBT\OnlineOrderSystem-UI-Da\DAO\obj\Debug\DAO.pdb
 D:\MyStuff\ICBT\Final Project\SOPS\ProICBT\OnlineOrderSystem-UI-Da\DAO\bin\Debug\Newtonsoft.Json.dll
 D:\MyStuff\ICBT\Final Project\SOPS\ProICBT\OnlineOrderSystem-UI-Da\DAO\bin\Debug\Newtonsoft.Json.xml
+D:\MyStuff\ICBT\Final Project\SOPS\GIT HUB\SOPS-UI\DAO\bin\Debug\DAO.dll
+D:\MyStuff\ICBT\Final Project\SOPS\GIT HUB\SOPS-UI\DAO\bin\Debug\DAO.pdb
+D:\MyStuff\ICBT\Final Project\SOPS\GIT HUB\SOPS-UI\DAO\bin\Debug\DAL.dll
+D:\MyStuff\ICBT\Final Project\SOPS\GIT HUB\SOPS-UI\DAO\bin\Debug\Newtonsoft.Json.dll
+D:\MyStuff\ICBT\Final Project\SOPS\GIT HUB\SOPS-UI\DAO\bin\Debug\DAL.pdb
+D:\MyStuff\ICBT\Final Project\SOPS\GIT HUB\SOPS-UI\DAO\bin\Debug\Newtonsoft.Json.xml
+D:\MyStuff\ICBT\Final Project\SOPS\GIT HUB\SOPS-UI\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\MyStuff\ICBT\Final Project\SOPS\GIT HUB\SOPS-UI\DAO\obj\Debug\DAO.dll
+D:\MyStuff\ICBT\Final Project\SOPS\GIT HUB\SOPS-UI\DAO\obj\Debug\DAO.pdb

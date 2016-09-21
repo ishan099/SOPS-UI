@@ -32,24 +32,8 @@ namespace OnlineOrderSystem.services
         {
             List<OrderDetails> _lstPendingLst = new List<OrderDetails>();
             PendingOrder _pendingOrder = new PendingOrder();
-
-            //_lstPendingLst = _pendingOrder.GetAllPendingOrer();
-            //return _lstPendingLst;
-
-            OrderDetails[] emps = new OrderDetails[] {  
-            new OrderDetails()  
-            {  
-                customerName="Nitin",  
-                itemCode="1"
-            },  
-            new OrderDetails()  
-            {  
-                customerName="Nitin",  
-                itemCode="2" 
-            }  
-        };
-           // return new JavaScriptSerializer().Serialize(emps);
-            var jsonss = Newtonsoft.Json.JsonConvert.SerializeObject(emps);
+            _lstPendingLst = _pendingOrder.GetAllPendingOrer();
+            var jsonss = Newtonsoft.Json.JsonConvert.SerializeObject(_lstPendingLst);
             return jsonss;
         }
     }

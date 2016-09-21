@@ -48,3 +48,15 @@ D:\MyStuff\ICBT\Final Project\SOPS\ProICBT\OnlineOrderSystem-UI-Da\OnlineOrderSy
 D:\MyStuff\ICBT\Final Project\SOPS\ProICBT\OnlineOrderSystem-UI-Da\OnlineOrderSystem\obj\Debug\OnlineOrderSystem.pdb
 D:\MyStuff\ICBT\Final Project\SOPS\ProICBT\OnlineOrderSystem-UI-Da\OnlineOrderSystem\bin\Newtonsoft.Json.dll
 D:\MyStuff\ICBT\Final Project\SOPS\ProICBT\OnlineOrderSystem-UI-Da\OnlineOrderSystem\bin\Newtonsoft.Json.xml
+D:\MyStuff\ICBT\Final Project\SOPS\GIT HUB\SOPS-UI\OnlineOrderSystem\bin\OnlineOrderSystem.dll.config
+D:\MyStuff\ICBT\Final Project\SOPS\GIT HUB\SOPS-UI\OnlineOrderSystem\bin\OnlineOrderSystem.dll
+D:\MyStuff\ICBT\Final Project\SOPS\GIT HUB\SOPS-UI\OnlineOrderSystem\bin\OnlineOrderSystem.pdb
+D:\MyStuff\ICBT\Final Project\SOPS\GIT HUB\SOPS-UI\OnlineOrderSystem\bin\DAL.dll
+D:\MyStuff\ICBT\Final Project\SOPS\GIT HUB\SOPS-UI\OnlineOrderSystem\bin\DAO.dll
+D:\MyStuff\ICBT\Final Project\SOPS\GIT HUB\SOPS-UI\OnlineOrderSystem\bin\Newtonsoft.Json.dll
+D:\MyStuff\ICBT\Final Project\SOPS\GIT HUB\SOPS-UI\OnlineOrderSystem\bin\DAL.pdb
+D:\MyStuff\ICBT\Final Project\SOPS\GIT HUB\SOPS-UI\OnlineOrderSystem\bin\DAO.pdb
+D:\MyStuff\ICBT\Final Project\SOPS\GIT HUB\SOPS-UI\OnlineOrderSystem\bin\Newtonsoft.Json.xml
+D:\MyStuff\ICBT\Final Project\SOPS\GIT HUB\SOPS-UI\OnlineOrderSystem\obj\Debug\OnlineOrderSystem.csprojResolveAssemblyReference.cache
+D:\MyStuff\ICBT\Final Project\SOPS\GIT HUB\SOPS-UI\OnlineOrderSystem\obj\Debug\OnlineOrderSystem.dll
+D:\MyStuff\ICBT\Final Project\SOPS\GIT HUB\SOPS-UI\OnlineOrderSystem\obj\Debug\OnlineOrderSystem.pdb

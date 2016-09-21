@@ -14,7 +14,7 @@ namespace DAO
         public List<OrderDetails> GetAllPendingOrer()
         {
             List<OrderDetails> _lst = new List<OrderDetails>();
-            string sql = "SELECT O_id, Qty, UnitPrice, Value, ItemCode FROM FB_Order_Details";
+            string sql = "select * from  view_pendingOrder";
             SqlDataReader dr = getDataReaderData(sql);
 
             if (dr.HasRows)
@@ -23,7 +23,9 @@ namespace DAO
                 {
                     _lst.Add(new OrderDetails
                     {
-                        itemCode = dr["ItemCode"] != DBNull.Value ? Convert.ToString(dr["ItemCode"]) : ""
+                        customerName = dr["Sender"] != DBNull.Value ? Convert.ToString(dr["Sender"]) : "",
+                        receivedDate = dr["ReceivedDate"] != DBNull.Value ? Convert.ToDateTime(dr["ReceivedDate"]) : DateTime.Now,
+                        orderId = dr["ID"] != DBNull.Value ? Convert.ToString(dr["ID"]) : "",
                     });
                 }
             }

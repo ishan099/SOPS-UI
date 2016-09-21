@@ -38,6 +38,7 @@
         <asp:ScriptManager ID="ScriptManager1" runat="server">
         <Scripts>
             <asp:ScriptReference Path="bower_components/jquery/dist/jquery.js" />
+            <asp:ScriptReference Path="~/bower_components/bootstrap/dist/js/bootstrap.js" />
             <asp:ScriptReference Path="assets/js/main.js" />
         </Scripts>
     </asp:ScriptManager>
