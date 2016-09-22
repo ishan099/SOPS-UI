@@ -292,8 +292,8 @@ namespace DAL
             try
             {
 
-                SqlCommand cmd = newCommand(sqlString, CommandType.Text);
-                return cmd.ExecuteNonQuery();
+                SqlCommand sqlcmd = new SqlCommand(sqlString, dbCon);
+                return sqlcmd.ExecuteNonQuery();
 
             }
             catch (Exception ex)

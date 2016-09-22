@@ -35,21 +35,24 @@
                         <h4 class="modal-title" >Order Details</h4>
                     </div>
                     <div class="modal-body">
+                        <div class="col-lg-12">
                         <div  class="row">
                             <div class="col-lg-12">
-                                <div class="col-md-4 text-left">Order Id</div>
-                                 <div class="col-md-8 text-left" id="orderId"> </div>
-
+                                    <div class="col-md-4 text-left">Order Id</div>
+                                    <div class="col-md-8 text-left" id="orderId"></div>
                             </div>
+                             <div class="col-lg-12">
+                                    <div class="col-md-4 text-left">
+                                        Customer Name
+                                    </div>
+                                    <div class="col-md-8 text-left" id="customerName"></div>
+                                </div>
                         </div>
+                            </div>
 
                         <div  class="row">
                             <div class="col-lg-12">
-                                <div class="col-md-4 text-left">
-                                    Customer Name
-                                </div>
-                                 <div class="col-md-8 text-left" id="customerName"></div>
-
+                               
                             </div>
                         </div>
 
@@ -66,11 +69,15 @@
                             </thead>
                             <tbody id="OrderView_id">
                             </tbody>
+                                
                         </table>
+                            <div class="col-lg-12 pull-right">
+                                <h3 class="text-right" id="total"></h3>
+                            </div>
                         </div>
                     </div>
                     <div class="modal-footer">
-                        <button type="button" class="btn btn-block btn-primary">Send to Process</button>
+                        <button type="button" onclick="updateOrder();" class="btn btn-block btn-primary">Send to Process</button>
                     </div>
                 </div>
             </div>

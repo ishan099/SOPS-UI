@@ -56,7 +56,6 @@ D:\MyStuff\ICBT\Final Project\SOPS\GIT HUB\SOPS-UI\OnlineOrderSystem\bin\DAO.dll
 D:\MyStuff\ICBT\Final Project\SOPS\GIT HUB\SOPS-UI\OnlineOrderSystem\bin\Newtonsoft.Json.dll
 D:\MyStuff\ICBT\Final Project\SOPS\GIT HUB\SOPS-UI\OnlineOrderSystem\bin\DAL.pdb
 D:\MyStuff\ICBT\Final Project\SOPS\GIT HUB\SOPS-UI\OnlineOrderSystem\bin\DAO.pdb
-D:\MyStuff\ICBT\Final Project\SOPS\GIT HUB\SOPS-UI\OnlineOrderSystem\bin\Newtonsoft.Json.xml
 D:\MyStuff\ICBT\Final Project\SOPS\GIT HUB\SOPS-UI\OnlineOrderSystem\obj\Debug\OnlineOrderSystem.csprojResolveAssemblyReference.cache
 D:\MyStuff\ICBT\Final Project\SOPS\GIT HUB\SOPS-UI\OnlineOrderSystem\obj\Debug\OnlineOrderSystem.dll
 D:\MyStuff\ICBT\Final Project\SOPS\GIT HUB\SOPS-UI\OnlineOrderSystem\obj\Debug\OnlineOrderSystem.pdb

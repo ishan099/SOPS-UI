@@ -87,5 +87,15 @@ namespace DAO
             return _lstCurrentOrder;
         }
 
+        //update order status 
+
+        public bool UpdateOrderStatus(string orderId,string status)
+        {
+            string sql = "update FB_MessageReceived  SET  FB_MessageReceived.Status='" + status + "' where  FB_MessageReceived.ID='" + Convert.ToInt16(orderId) + "'";
+            int state = exeNonQury(sql);
+            return state == 1 ? true : false;
+
+        }
+
     }
 }

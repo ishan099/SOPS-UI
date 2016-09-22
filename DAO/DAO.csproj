@@ -43,9 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CompleteOrder.cs" />
     <Compile Include="Intraction.cs" />
     <Compile Include="module\OrderDetails.cs" />
     <Compile Include="PendingOrder.cs" />
+    <Compile Include="ProcessingOrder.cs" />
     <Compile Include="TableRow.cs" />
     <Compile Include="Tasks.cs" />
     <Compile Include="LoginUser.cs" />
