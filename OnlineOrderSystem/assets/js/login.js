@@ -7,7 +7,7 @@
         return {
             login: function (uName, pwd) {
                 if (uName == UserName && Password == pwd) {
-                    window.location.href = "main.aspx";
+                    window.location.href = "pendingOrders.aspx";
                     return;
                 }
                 else {
